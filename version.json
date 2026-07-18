@@ -1,0 +1,9 @@
+{
+  "minRequiredVersion": "1.0.5",
+  "title": "Update Available",
+  "message": "A new version of Light the Lamp is available. Please update to the latest version to continue playing.",
+  "storeUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.ocensoft.lightthelamp",
+    "ios": "https://apps.apple.com/app/id6503901614"
+  }
+}
