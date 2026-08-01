@@ -1,7 +1,7 @@
 {
-  "minRequiredVersion": "1.0.32",
+  "minRequiredVersion": "1.1.2",
   "title": "🎉 New Update Available!",
-  "message": "Improve user experience, added animations, and difficulty selection polish! Update to the latest version and continue your journey.",
+  "message": "Improved theme customization, settings UI polish, and critical hint solver bug fixes! Update to the latest version and continue your journey.",
   "adsEnabled": false,
   "internetRequired": false,
   "storeUrls": {
