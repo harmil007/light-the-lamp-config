@@ -1,8 +1,19 @@
 {
-  "minRequiredVersion": "1.1.3",
+  "minRequiredVersion": "1.1.7",
   "title": "🎉 New Update Available!",
-  "message": "Improved theme customization, settings UI polish, and critical hint solver bug fixes! Update to the latest version and continue your journey.",
-  "adsEnabled": false,
+  "message": "Improved theme customization, settings UI polish, and other UI improvement! Update to the latest version and continue your journey.",
+  "adsEnabled": {
+    "banner": false,
+    "interstitial": false,
+    "rewarded": false
+  },
+  "interstitial": {
+    "levelsBetweenAds": 5,
+    "minimumCooldownSeconds": 180
+  },
+  "rewarded": {
+    "dailyLimit": 5
+  },
   "internetRequired": false,
   "storeUrls": {
     "android": "https://play.google.com/store/apps/details?id=com.ocensoft.lightthelamp",
