@@ -1,7 +1,7 @@
 {
-  "minRequiredVersion": "1.1.7",
+  "minRequiredVersion": "1.2.0",
   "title": "🎉 New Update Available!",
-  "message": "Improved theme customization, settings UI polish, and other UI improvement! Update to the latest version and continue your journey.",
+  "message": "🎉 Enjoy smoother animations and richer sound effects. 🚀 Performance has been optimized for faster gameplay. Update to the latest version and continue your journey.",
   "adsEnabled": {
     "banner": false,
     "interstitial": false,
@@ -9,10 +9,10 @@
   },
   "interstitial": {
     "levelsBetweenAds": 5,
-    "minimumCooldownSeconds": 180
+    "minimumCooldownSeconds": 160
   },
   "rewarded": {
-    "dailyLimit": 5
+    "dailyLimit": 15
   },
   "internetRequired": false,
   "storeUrls": {
