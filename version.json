@@ -1,7 +1,7 @@
 {
-  "minRequiredVersion": "1.2.0",
+  "minRequiredVersion": "1.2.2",
   "title": "🎉 New Update Available!",
-  "message": "🎉 Enjoy smoother animations and richer sound effects. 🚀 Performance has been optimized for faster gameplay. Update to the latest version and continue your journey.",
+  "message": "🎉 Decoy Locked Tiles. 🚀 Android Precision Haptics. Update to the latest version and continue your journey.",
   "adsEnabled": {
     "banner": false,
     "interstitial": false,
