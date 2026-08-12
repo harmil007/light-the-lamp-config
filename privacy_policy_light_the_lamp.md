@@ -108,4 +108,4 @@ When changes are made, the "Last Updated" date at the top of this page will be u
 If you have any questions regarding this Privacy Policy, you can contact us:
 
 - **Developer:** OcenSoft
-- **Email:** support@ocensoft.com
+- **Email:** support+ocensoft@gmail.com
