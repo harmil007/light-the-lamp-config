@@ -38,5 +38,5 @@ If you have any questions or feedback regarding this privacy policy, please cont
 
 Email: 
 
-support@ocensoft.com
-Website: https://ocensoft.com
+support+ocensoft@gmail.com.
+Website: [https://ocensoft.com](https://harmil-portfolio.netlify.app/)
