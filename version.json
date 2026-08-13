@@ -1,7 +1,7 @@
 {
-  "minRequiredVersion": "1.2.2",
+  "minRequiredVersion": "1.2.4",
   "title": "🎉 New Update Available!",
-  "message": "🎉 Decoy Locked Tiles. 🚀 Android Precision Haptics. Update to the latest version and continue your journey.",
+  "message": "🎉 New challenges, 🎉 Decoy Locked Tiles. 🚀 New levels. Update to the latest version and continue your journey.",
   "adsEnabled": {
     "banner": true,
     "interstitial": true,
