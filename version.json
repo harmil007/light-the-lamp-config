@@ -3,9 +3,9 @@
   "title": "🎉 New Update Available!",
   "message": "🎉 New challenges, 🎉 Decoy Locked Tiles. 🚀 New levels. Update to the latest version and continue your journey.",
   "adsEnabled": {
-    "banner": true,
-    "interstitial": true,
-    "rewarded": true
+    "banner": false,
+    "interstitial": false,
+    "rewarded": false
   },
   "interstitial": {
     "levelsBetweenAds": 5,
