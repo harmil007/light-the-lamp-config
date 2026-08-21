@@ -5,7 +5,7 @@
   "adsEnabled": {
     "banner": false,
     "interstitial": false,
-    "rewarded": false
+    "rewarded": true
   },
   "interstitial": {
     "levelsBetweenAds": 5,
