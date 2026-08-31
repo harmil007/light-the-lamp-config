@@ -3,12 +3,12 @@
   "title": "🎉 New Update Available!",
   "message": "🎉 New challenges, 🎉 Added New theme. 🚀 New levels. Update to the latest version and continue your journey.",
   "adsEnabled": {
-    "banner": false,
+    "banner": true,
     "interstitial": false,
     "rewarded": true
   },
   "interstitial": {
-    "levelsBetweenAds": 3,
+    "levelsBetweenAds": 4,
     "minimumCooldownSeconds": 160
   },
   "rewarded": {
