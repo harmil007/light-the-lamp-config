@@ -1,5 +1,5 @@
 {
-  "minRequiredVersion": "1.3.1",
+  "minRequiredVersion": "1.3.5",
   "title": "🎉 New Update Available!",
   "message": "🎉 New challenges, 🎉 Added New theme. 🚀 New levels. Update to the latest version and continue your journey.",
   "adsEnabled": {
@@ -8,8 +8,8 @@
     "rewarded": true
   },
   "interstitial": {
-    "levelsBetweenAds": 4,
-    "minimumCooldownSeconds": 160
+    "levelsBetweenAds": 5,
+    "minimumCooldownSeconds": 240
   },
   "rewarded": {
     "dailyLimit": 15
