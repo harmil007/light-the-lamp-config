@@ -8,7 +8,7 @@
     "rewarded": true
   },
   "interstitial": {
-    "levelsBetweenAds": 7,
+    "levelsBetweenAds": 4,
     "minimumCooldownSeconds": 240
   },
   "rewarded": {
