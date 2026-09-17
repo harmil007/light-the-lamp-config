@@ -14,7 +14,7 @@
   "rewarded": {
     "dailyLimit": 15
   },
-  "internetRequired": false,
+  "internetRequired": true,
   "storeUrls": {
     "android": "https://play.google.com/store/apps/details?id=com.ocensoft.lightthelamp",
     "ios": "https://apps.apple.com/app/id6503901614"
