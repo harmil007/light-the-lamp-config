@@ -9,7 +9,7 @@
   },
   "interstitial": {
     "levelsBetweenAds": 4,
-    "minimumCooldownSeconds": 240
+    "minimumCooldownSeconds": 120
   },
   "rewarded": {
     "dailyLimit": 15
