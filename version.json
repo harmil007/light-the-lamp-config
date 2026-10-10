@@ -8,8 +8,8 @@
     "rewarded": true
   },
   "interstitial": {
-    "levelsBetweenAds": 3,
-    "minimumCooldownSeconds": 120
+    "levelsBetweenAds": 4,
+    "minimumCooldownSeconds": 100
   },
   "rewarded": {
     "dailyLimit": 15
